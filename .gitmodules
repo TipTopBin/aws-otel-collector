@@ -1,0 +1,9 @@
+[submodule "do/otel-accelerator"]
+	path = do/otel-accelerator
+	url = https://github.com/TipTopBin/aws-observability-accelerator.git
+[submodule "do/otel-accelerator-tf"]
+	path = do/otel-accelerator-tf
+	url = https://github.com/TipTopBin/terraform-aws-observability-accelerator.git
+[submodule "do/one-demo"]
+	path = do/one-demo
+	url = https://github.com/TipTopBin/one-observability-demo.git
